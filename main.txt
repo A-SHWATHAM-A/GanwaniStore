@@ -1,0 +1,424 @@
+<div class="product">
+            <h2 style="margin-top: 2rem;">FILTERS </h2>
+            <p style="font-size:15px ; color: gray;">1000+ products</p>
+
+            <details open>
+                <summary>
+                    Category
+                </summary>
+                <div>
+                    <form action="">
+
+
+                        <div class="searchbox">
+                            <i class="fa fa-search" style="font-size:1.1rem"></i>
+
+
+                            <input type="text"  id="searchCategory"
+                                placeholder="  Search">
+                        </div>
+                        <ul style="list-style: none;">
+                            <li><input type="checkbox"> Analog watches</li>
+                            <li><input type="checkbox"> shirts</li>
+                            <li> <input type="checkbox"> Beauty</li>
+                        </ul>
+
+
+
+                </div>
+
+
+            </details>
+            <details>
+                <summary>
+                    BRAND
+                </summary>
+                <div>
+                    <ul>
+                        <li><input type="checkbox"> RAYMOND</li>
+                        <li><input type="checkbox"> TITAN</li>
+                        <li> <input type="checkbox"> JACK & JONES</li>
+                    </ul>
+                </div>
+            </details>
+            <details>
+                <summary>
+                    Price
+                </summary>
+                <div>
+                    <ul>
+                        <li><input type="checkbox"> under &#8377; 500</li>
+                        <li><input type="checkbox"> under &#8377; 1000</li>
+                        <li> <input type="checkbox"> under&#8377; 2000</li>
+                    </ul>
+                </div>
+            </details>
+            <details>
+                <summary>
+                    SIZE
+                </summary>
+                <div>
+                    <ul>
+                        <li><input type="checkbox"> S</li>
+                        <li><input type="checkbox"> M</li>
+                        <li> <input type="checkbox"> L</li>
+                        <li> <input type="checkbox"> XL</li>
+                        <li> <input type="checkbox"> XXL</li>
+                    </ul>
+                </div>
+            </details>
+
+        </div>
+
+        <div class="rightbox">
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+            <div class="p1">
+                <img src="slider13.jpg" alt="">
+                <div>
+                    <h2>Fancy Fasion Woman dress</h2>
+                    <h1>&#8377; 1000 <b>onwards</b></h1>
+                    <h4>Free Delivery</h4>
+                    <h4> <span>3.5*</span> 167 Reviews</h4>
+                    
+                </div>
+            </div>
+        </div>
